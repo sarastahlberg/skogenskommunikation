@@ -1,0 +1,51 @@
+h1{
+  font-family: 'Raleway', sans-serif;
+  color:#CA3C1E;
+}
+h2{
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  color:#5f6f58;
+}
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+padding-top: 0px;
+padding-bottom: 10px;
+}
+body{
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 0px;
+margin-bottom: 0px;
+  text-align: center;
+  background-color: #CA3C1E;
+}
+.content{
+  background-color: white;
+  padding-left: 140px;
+  padding-right: 140px;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+a{
+  font-family: 'Source Sans Pro', sans-serif;
+  color:#CA3C1E;
+
+}
+img{
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+@media (max-width: 600px){
+body{
+  background-color: white;
+}
+.content{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+  padding-top: 10px;
+}
+}
